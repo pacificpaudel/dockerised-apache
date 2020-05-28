@@ -20,7 +20,7 @@ There are 5 simple files for this demo that you can clone from https://github.co
 
 Once this structure is replicated or cloned with these files, and Docker installed locally, you can simply run "docker-compose up" from the root of the project to run this entire demo, and point your browser (or curl) to http://localhost:80 to see the demo. We will get into what "docker-compose" is, and what makes up this basic demonstration in the following sections!
 
-We'll use the following simple PHP application to demonstrate everything:
+
 
 #### index.php
 ```
